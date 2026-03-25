@@ -25,3 +25,8 @@ To remove an initialized repo, we can run 'rm -rf .igt' (or more safely, place t
 - files that have been modified since the last commit
 
 - and more
+
+
+- git push origin (name of the branch)
+
+- git pull origin (name of the branch)
